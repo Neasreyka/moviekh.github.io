@@ -1,0 +1,1 @@
+a:5:{s:5:"value";s:121:"http://www.dailymotion.com/cdn/manifest/video/x5tj9ev.m3u8?auth=1502288668-2688-h9l04jd2-74e9be1f41496f3861b2584204d65f27";s:10:"write_time";i:1502115868;s:10:"expired_in";i:172800;s:12:"expired_time";i:1502288668;s:4:"size";i:121;}
